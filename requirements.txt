@@ -4,3 +4,5 @@ torchvision
 numpy
 opencv-python-headless
 Pillow
+pil
+cv2
