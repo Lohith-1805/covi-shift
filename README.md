@@ -13,4 +13,3 @@ Visualization of training/validation curves and confusion matrix
 
 About the Website:-
 The website has 5 sections and can be accessed using the link: - https://covi-shift.onrender.com
-The 5 sections are: - Home, Test, Precautions, Vaccinations, About
