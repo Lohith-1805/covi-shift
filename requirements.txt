@@ -1,4 +1,7 @@
-Flask
+fastapi
+uvicorn
+gunicorn
+python-multipart
 torch
 torchvision
 numpy
